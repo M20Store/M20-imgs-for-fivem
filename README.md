@@ -9,3 +9,5 @@ I'm a dedicated FiveM developer specializing in custom server scripting and modd
 - Discord bot integration for community management and subscription systems
 
 I’m passionate about pushing the limits of FiveM to create interactive, enjoyable servers. Feel free to explore my repositories and reach out if you’d like to collaborate or need help with FiveM projects!
+
+- 🌍 https://discord.gg/m20
